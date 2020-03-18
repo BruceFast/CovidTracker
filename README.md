@@ -1,5 +1,5 @@
 # CovidTracker
-Work with me to build a covid19 (coronovirus) tracking app with fantastic privacy!  It also offers high usage efficiency.
+Work with me to build a covid19 (coronavirus) tracking app with fantastic privacy!  It also offers high usage efficiency.
 
 Here's the strategy:
 
